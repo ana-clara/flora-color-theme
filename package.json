@@ -1,0 +1,28 @@
+{
+    "name": "flora-theme",
+    "displayName": "Flora Color Theme",
+    "description": "A soft color theme for VSCode",
+    "author": "Ana Clara Fonseca (https://github.com/ana-clara)",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "repository": {
+		"url": "https://github.com/ana-clara/flora-color-theme",
+		"type": "git"
+	},
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flora",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Flora-color-theme.json"
+            }
+        ]
+    }
+}
