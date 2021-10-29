@@ -3,7 +3,7 @@
     "type": "dark",
     "semanticHighlighting": true,
 	"colors": {
-		"editor.background": "#292e39",
+		"editor.background": "#22262f",
         "editor.foreground": "#ece9df",
         "editorLineNumber.foreground": "#525c6b",
         "editor.findMatchBackground": "#67758869",
